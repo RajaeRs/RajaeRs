@@ -1,30 +1,26 @@
-<!--
-# Hi, my name is Rajae
-I'm a Computer Science Student thats very passionate about solving complicated problems and creating software solutions.
+
+### Hi, I am Rajae.
+###### I'm a Computer Science Student very passionate about solving complicated problems and creating software solutions.
 
 <pre>
-┌──┤ WHOAMI ├─────────▰▰▰
-│
-├─# Computer Science Student at 1337 Khouribga
-├─▣ From Tetouan Morocco
-├─▣ Interested in CyberSecurity specifically. DevOps, AI, GameDev generally.
-│
-└───────────────────────────────▰▰▰
 
-┌──┤ SOCIAL ├─────────▰▰▰
-│
-├─◈ <a href="https://www.linkedin.com/in/achraf-elkhnissi" rel="nofollow">LinkedIn</a>
-├─◈ <a href="https://twitter.com/su_privada" rel="nofollow">Twitter</a>
-├─◈ <a href="https://www.instagram.com/su_privada" rel="nofollow">Instagram</a>
-├─◈ Discord: ashraf#2244
-│
-└───────────────────────────────▰▰▰
-
+┌──┤ WHO AM I ├─────────▰▰▰                         ┌──┤ SOCIAL MEDIA ├─────────▰▰▰
+├ ▣                                                   ├─◈ <a href="https://www.linkedin.com/in/rajae-rasezine/" rel="nofollow">LinkedIn</a>
+├─▣ Computer Science Student at 1337 Med-Tétouan.     ├─◈ <a href="https://www.behance.net/rasezinerajae" rel="nofollow">Behance</a>
+├─▣ From Oujda, Morocco                               ├─◈ <a href="https://twitter.com/RasezineR" rel="nofollow">Twitter</a>
+├─▣ Interested in GameDev.                            ├─◈ <a href="https://www.instagram.com/rajae_rasezine/" rel="nofollow">Instagram</a>
+├ ▣                                                   ├─◈ Discord: rajae_rasezine#1178
+└───────────────────────────────▰▰▰                 └───────────────────────────────▰▰▰
+</pre>
+<!--
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href=""></a>
 │
 └───────────────────────────────▰▰▰
-</pre>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajaeRs&show_icons=true&theme=great-gatsby)
+-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajaeRs&show_icons=false&theme=github_dark)
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RajaeRs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaeRs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
