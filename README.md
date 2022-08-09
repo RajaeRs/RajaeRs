@@ -19,7 +19,7 @@
 │
 └───────────────────────────────▰▰▰
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajaeRs&show_icons=false&theme=github_dark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajaeRs&show_icons=false&theme=github_dark&count_private=true&hide=prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaeRs&card_width=400%&langs_count=8&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 &langs_count=8&count_private=true&exclude_repo=Pool_1337_2022
