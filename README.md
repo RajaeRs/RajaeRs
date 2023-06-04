@@ -8,7 +8,7 @@
 ├─▣ Computer Science Student at 1337 Med-Tétouan.   ├─◈ <a href="https://www.behance.net/rasezinerajae" rel="nofollow">Behance</a>
 ├─▣ From Oujda, Morocco                             ├─◈ <a href="https://twitter.com/RasezineR" rel="nofollow">Twitter</a>
 ├─▣ Interested in GameDev, WebDev.                  ├─◈ <a href="https://www.instagram.com/rajae_rasezine/" rel="nofollow">Instagram</a>
-├ ▣                                                 ├─◈ Discord: rajae_rasezine#1178
+├ ▣                                                 ├─◈ Discord: rrasezin#1178
 └───────────────────────────────▰▰▰                 └───────────────────────────────▰▰▰
 </pre>
 
