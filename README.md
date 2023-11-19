@@ -19,4 +19,4 @@
 │
 └───────────────────────────────▰▰▰
 -->
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/rrasezin" alt="rrasezin's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/rrasezin" alt="rrasezin's 42 stats" /></a>
