@@ -1,17 +1,20 @@
 
-### Hi, I am Rajae.
-###### I'm a Computer Science Student very passionate about solving complicated problems and creating software solutions.
+### Hi, I am Rajae .
+###### 🤖 A Computer Science Student .
+
+<!-- very passionate about solving complicated problems and creating software solutions -->
 
 <pre>
 ┌──┤ WHO AM I ├─────────▰▰▰                         ┌──┤ SOCIAL MEDIA ├─────────▰▰▰
-├ ▣                                                 ├─◈ <a href="https://www.linkedin.com/in/rajae-rasezine/" rel="nofollow">LinkedIn</a>
-├─▣ Computer Science Student at 1337 Med-Tétouan.   ├─◈ <a href="https://www.behance.net/rasezinerajae" rel="nofollow">Behance</a>
-├─▣ From Oujda, Morocco                             ├─◈ <a href="https://twitter.com/RasezineR" rel="nofollow">Twitter</a>
-├─▣ Interested in GameDev, WebDev.                  ├─◈ <a href="https://www.instagram.com/rajae_rasezine/" rel="nofollow">Instagram</a>
-├ ▣                                                 ├─◈ Discord: rrasezin#1178
+├                                                   ├ 
+├─▣ Computer Science Student at 1337 Med-Tétouan.   ├─◈ <a href="https://www.linkedin.com/in/rajae-rasezine/" rel="nofollow">LinkedIn</a>
+├─▣ From Oujda, Morocco                             ├─◈ <a href="https://www.behance.net/rasezinerajae" rel="nofollow">Behance</a>
+├─▣ Interested in AI, WebDev.                  ├─◈ Discord: rrasezin#1178
+├                                                   ├
 └───────────────────────────────▰▰▰                 └───────────────────────────────▰▰▰
 </pre>
-
+<p align="center" > ▰▰▰ ------------------------------------------------------------┤ 1337 ├------------------------------------------------------------ ▰▰▰ </p>
+<h1  align="center"><img src="https://badge.mediaplus.ma/darkblue/rrasezin" alt="rrasezin's 42 stats" /></h1>
 <!--
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
@@ -19,4 +22,4 @@
 │
 └───────────────────────────────▰▰▰
 -->
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/rrasezin" alt="rrasezin's 42 stats" /></a>
+<p align="center" > ▰▰▰ -------------------------------------------------------------------------------------------------------------------------------- ▰▰▰ </p>
