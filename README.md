@@ -1,6 +1,6 @@
 
 ### Hi, I am Rajae .
-###### 🤖 A Computer Science Student .
+#### 🤖 A Computer Science Student .
 
 <!-- very passionate about solving complicated problems and creating software solutions -->
 
